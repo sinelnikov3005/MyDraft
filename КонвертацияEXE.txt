@@ -1,0 +1,3 @@
+# импорт .py в .exe через консоль cmd
+
+pyinstaller -w -F -i "D:\Programs\JetBrains\PycharmProjects\untitled\icon.ico" main.py

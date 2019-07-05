@@ -1,0 +1,3 @@
+import pyEXE
+
+pyEXE.pinst()
